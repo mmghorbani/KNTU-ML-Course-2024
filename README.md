@@ -1,7 +1,7 @@
 # K. N. Toosi Machine Learning Course 2024
 
 ## About
-This repository contains assignments and projects of the Machin Learning Course 2024, K. N Toosi University of Science and Technology. All assignments are implemented with Python.
+This repository contains assignments and projects of the Machin Learning Course 2024, K. N Toosi University of Science and Technology.
 
 ## Instructor
 [Dr. Mahdi Aliyari](https://apac.ee.kntu.ac.ir/members/faculty/aliyari/)
