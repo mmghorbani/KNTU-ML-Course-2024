@@ -18,7 +18,7 @@ This Python notebook investigates the effectiveness of a multilayer perceptron (
 - K-Fold cross-validation is employed to assess the generalizability of the models.
 
 
-## Question 2
+## Question 3
 
 This notebook investigates the application of decision trees and random forest classifiers for a drug classification task using the Drug dataset from Kaggle. The notebook provides insights into how pre-pruning, post-pruning, undersampling, and hyperparameter tuning can influence the performance and complexity of decision trees and random forests for drug classification.
 
@@ -30,5 +30,5 @@ This notebook investigates the application of decision trees and random forest c
 - A random forest model is trained with default hyperparameters and evaluated on the test set.
 - This investigation allows for comparing the impact of different approaches on the performance of decision trees and random forests in this drug classification task.
 
-
-
+## Question 4
+This Jupyter Notebook implements a Naive Bayes classifier on the Heart Disease Dataset to predict the presence of heart disease in patients. It covers data loading, preprocessing (shuffling, splitting, normalization), model training with GaussianNB, evaluation (accuracy score, classification report, confusion matrix), and an example of random prediction.
