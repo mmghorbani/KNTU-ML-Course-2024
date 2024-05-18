@@ -1,5 +1,12 @@
 ## Question 1
-Implements a simple Multi-layer Perceptron (MLP) for a multi-class classification problem. The MLP consists of two layers of McCulloch-Pitts neurons with different activation functions. The code explores the use of step, sign, and ReLU activation functions and visualizes the decision boundaries for each combination.
+Implementation of a two-layer artificial neural network with McCulloch-Pitts neurons for multi-class classification. The network utilizes three distinct activation functions: sigmoid, ReLU (Rectified Linear Unit), and ELU (Exponential Linear Unit).
+
+- The notebook defines mathematical functions for sigmoid, ReLU, and ELU activations, along with their derivatives.
+- It implements the McCulloch-Pitts neuron class with functionalities for step, sign, and ReLU activation functions.
+- Two multi-class classification models are built using the defined neurons:
+  - Model 1: Uses a step function as the activation function in both layers.
+  - Model 2: Employs a sign function in the first layer and ReLU in the second layer.
+- The notebook visualizes the decision boundaries achieved by both models using randomly generated data points.
 
 ## Question 2
 This Python notebook investigates the effectiveness of a multilayer perceptron (MLP) network for classifying faults in bearings. The system leverages features extracted from vibration data acquired from the CWRU-bearing dataset. The notebook compares the performance of the MLP network using different optimization algorithms and loss functions.
