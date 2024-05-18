@@ -16,3 +16,19 @@ This Python notebook investigates the effectiveness of a multilayer perceptron (
   - Model 1: Uses Adam optimizer and sparse categorical cross-entropy loss.
   - Model 2: Uses SGD optimizer and Kullback-Leibler divergence loss.
 - K-Fold cross-validation is employed to assess the generalizability of the models.
+
+
+## Question 2
+
+This notebook investigates the application of decision trees and random forest classifiers for a drug classification task using the Drug dataset from Kaggle. The notebook provides insights into how pre-pruning, post-pruning, undersampling, and hyperparameter tuning can influence the performance and complexity of decision trees and random forests for drug classification.
+
+- The notebook utilizes the Drug dataset from Kaggle for drug classification.
+- Preprocessing includes data cleaning, feature engineering, and undersampling to handle class imbalance.
+- Decision tree models are trained with different hyperparameters for pre-pruning, post-pruning, and default settings.
+- Decision tree structures are visualized to understand their decision-making processes.
+- The performance of decision trees is evaluated using classification reports.
+- A random forest model is trained with default hyperparameters and evaluated on the test set.
+- This investigation allows for comparing the impact of different approaches on the performance of decision trees and random forests in this drug classification task.
+
+
+
