@@ -1,4 +1,4 @@
-# Mini-Project 1
+![q2-3-2](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/8f3d37c5-a945-44b2-a1c2-612f573982e1)# Mini-Project 1
 
 ![Classic Word Cloud H_W layout (1)](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/881023bd-95f5-4e5b-a29f-60a43a8bca35)
 
@@ -11,6 +11,11 @@ This notebook focused on generating and classifying synthetic datasets using var
 - Visualization: Includes 3D scatter plots to visualize the generated data.
 - Model Training: Implements Logistic Regression and SGD Classifier for classification.
 - Hyperparameter Tuning: Uses GridSearchCV and RandomizedSearchCV to find the best model parameters.
+
+#### Plots
+![q1-5-7](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/925d0a75-8976-4306-9583-d6cc5198d4bf)
+![q1-5-6](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/3f76b6a4-62e0-4a6e-9877-1581914be967)
+
 
 This notebook is a comprehensive guide for understanding dataset creation, model training, and hyperparameter optimization using Scikit-learn.
 
@@ -25,6 +30,10 @@ This Jupyter Notebook demonstrates importing, preprocessing, and classifying dat
 - Model Training: Implements Logistic Regression for binary classification.
 - Validation: Uses various metrics to evaluate model performance on training and test sets.
 
+#### Plot
+![q2-3-2](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/40570737-f6ec-4320-afe7-4967752a5501)
+
+
 ## Question 3
 This Jupyter Notebook is focused on analyzing weather data for regression tasks. The notebook covers the steps of importing a weather dataset, performing exploratory data analysis (EDA), and building regression models to predict specific weather-related outcomes. The models are evaluated based on their performance metrics.
 
@@ -33,3 +42,7 @@ This Jupyter Notebook is focused on analyzing weather data for regression tasks.
 - Exploratory Data Analysis: Uses visualizations and statistical methods to understand the data.
 - Model Training: Implements regression models to predict weather parameters.
 - Validation: Evaluates model performance using metrics such as Mean Squared Error.
+
+#### Plot
+![q3-2-6](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/b79f9ed7-f1db-4848-8a02-0bca6f9a41db)
+
