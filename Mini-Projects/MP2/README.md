@@ -1,3 +1,9 @@
+# Mini-Project 2
+
+![ML-MP2-Ghorbani](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/73eaf7a8-2424-481e-af4d-fd9857d6024c)
+
+
+
 ## Question 1
 Implementation of a two-layer artificial neural network with McCulloch-Pitts neurons for multi-class classification. The network utilizes three distinct activation functions: sigmoid, ReLU (Rectified Linear Unit), and ELU (Exponential Linear Unit).
 
