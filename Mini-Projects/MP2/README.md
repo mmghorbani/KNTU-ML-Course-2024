@@ -14,6 +14,11 @@ Implementation of a two-layer artificial neural network with McCulloch-Pitts neu
   - Model 2: Employs a sign function in the first layer and ReLU in the second layer.
 - The notebook visualizes the decision boundaries achieved by both models using randomly generated data points.
 
+#### Plots
+![q1-3-4](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/f9ca6cc1-0f8b-4765-8d6b-a25dc9993622)
+![q1-3-3](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/3bdbad1f-b6ba-4c04-9618-61f59a048215)
+
+
 ## Question 2
 This Python notebook investigates the effectiveness of a multilayer perceptron (MLP) network for classifying faults in bearings. The system leverages features extracted from vibration data acquired from the CWRU-bearing dataset. The notebook compares the performance of the MLP network using different optimization algorithms and loss functions.
 
@@ -23,6 +28,9 @@ This Python notebook investigates the effectiveness of a multilayer perceptron (
   - Model 2: Uses SGD optimizer and Kullback-Leibler divergence loss.
 - K-Fold cross-validation is employed to assess the generalizability of the models.
 
+#### Plots
+![q2-2-2](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/0e742886-22d1-4cfd-a3ff-1cb3e30f0a7f)
+![q2-2-1](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/1a007056-126b-4235-84dc-fe6b43132576)
 
 ## Question 3
 
@@ -36,5 +44,11 @@ This notebook investigates the application of decision trees and random forest c
 - A random forest model is trained with default hyperparameters and evaluated on the test set.
 - This investigation allows for comparing the impact of different approaches on the performance of decision trees and random forests in this drug classification task.
 
+#### Plot
+![q3-2-5](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/b8f4cfa8-887f-45e4-ab14-16c61316e3b2)
+
 ## Question 4
 This Jupyter Notebook implements a Naive Bayes classifier on the Heart Disease Dataset to predict the presence of heart disease in patients. It covers data loading, preprocessing (shuffling, splitting, normalization), model training with GaussianNB, evaluation (accuracy score, classification report, confusion matrix), and an example of random prediction.
+
+#### Plot
+![q4-6](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/03c944a5-d425-451a-b60d-680754e0307d)
