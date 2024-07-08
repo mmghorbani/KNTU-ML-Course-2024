@@ -12,7 +12,7 @@ This repository features a machine learning project on the Iris dataset, encompa
 - Model Implementation: Implements SVM for classification tasks.
 - Performance Evaluation: Evaluated with accuracy and F1-score metrics, including decision boundary and confusion matrix visualizations.
 
-## Question 2
+## Question 3
 This repository features a machine learning project on credit card fraud detection using the SMOTE technique for handling class imbalance. The project covers data preprocessing, model training with a neural network, and performance evaluation, providing comprehensive visualizations and analysis to demonstrate the model's effectiveness.
 
 ### Key Features:
