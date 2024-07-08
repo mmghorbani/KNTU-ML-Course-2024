@@ -1,4 +1,4 @@
-# Mini-Project 3n
+# Mini-Project 3
 
 ![ML-MP3-Ghorbani](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/96a4992f-52d5-458c-8d05-3893b3c06fe7)
 
