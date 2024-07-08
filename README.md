@@ -9,5 +9,5 @@ This repository contains assignments and projects of the Machin Learning Course 
 Associate Professor of Control and Mechatronics Engineering
 
 ## Assignments
-### Mini Project 1:
- Generate dataset with Sikit-learn and drawdata, Statistical feature extraction, Preprocessing data, Make classification with Logistic Regression, Fault detection on CWRU dataset, Predict temperature on Weather in Szeged dataset with Least Square (LS), Recursive  Least Square (RLS) and Weighted Least Square (WLS) methods.
+
+![Slide1](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/c97e15b4-07d5-4f91-baa5-734e58b1fe84)
