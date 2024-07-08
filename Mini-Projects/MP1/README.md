@@ -1,4 +1,4 @@
-# Mini-project 1
+# Mini-Project 1
 
 ![Classic Word Cloud H_W layout (1)](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/881023bd-95f5-4e5b-a29f-60a43a8bca35)
 
