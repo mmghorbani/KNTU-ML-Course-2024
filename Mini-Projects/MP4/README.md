@@ -4,6 +4,9 @@
 
 
 ## Question 2
+- `ML_MP4_Q2_Ghorbani.py` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uF45VnCxErOpOHZVBbCKSdjwgckS5HBD?usp=sharing)
+
+
 Reinforcement learning (RL) has shown great promise in training agents to make decisions by maximizing cumulative rewards. In this project, we apply two popular RL algorithms, DQN and DDQN, to the Lunar Lander environment. The key objectives are to analyze and compare the performance of these algorithms with different batch sizes and to visualize the agent's behavior over time.
 
 ### Key Features
