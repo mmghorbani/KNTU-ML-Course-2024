@@ -1,7 +1,13 @@
 # K. N. Toosi Machine Learning Course 2024
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## About
-This repository contains assignments and projects of the Machine Learning Course 2024, K. N Toosi University of Science and Technology.
+This repository houses the assignments and projects for the Machine Learning Course 2024 at K. N. Toosi University of Science and Technology. It includes a variety of practical tasks and comprehensive projects designed to enhance your understanding of machine learning concepts. For detailed information on the topics covered in the course, please visit the [Course webpage](https://apac.ee.kntu.ac.ir/academic/courses/machine-learning/).
 
 ## Instructor
 [Dr. Mahdi Aliyari](https://apac.ee.kntu.ac.ir/members/faculty/aliyari/)
@@ -23,5 +29,24 @@ Associate Professor of Control and Mechatronics Engineering
 |  _Autoencoder Network_  	| Training a Denoising Autoencoder (DAE) and neural network for denoising and classification tasks on [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).                                   	| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmghorbani/KNTU-ML-Course-2024/tree/main/Mini-Projects/MP3#question-3)           	|
 |    _Deep Q-Networks_    	| Apply two popular Reinforcement Learning algorithms, DQN and DDQN, to the [Lunar Lander environment](https://www.gymlibrary.dev/environments/box2d/lunar_lander/).                                                                        	|  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmghorbani/KNTU-ML-Course-2024/tree/main/Mini-Projects/MP4#question-2)          	|
 
+
 > [!NOTE]
 > This table highlights the main topics such as implemented models and algorithms. However, each project employs various techniques for data preprocessing, visualization, and analysis. For more details, please refer to the directory of each mini-project.
+
+## Contribution
+We welcome contributions from students and professionals alike. If you would like to contribute to this repository, please follow these steps:
+
+- Fork the Repository: Click the "Fork" button at the top right of this page to create a copy of this repository on your account.
+- Clone the Repository: Use git clone to download your fork to your local machine.
+- Create a Branch: Make a new branch for your changes with git checkout -b branch-name.
+- Make Changes: Implement your changes and commit them with a clear and concise message.
+- Push to the Branch: Push your changes to the new branch on your fork.
+- Submit a Pull Request: Open a pull request on this repository, detailing your changes and why they should be merged.
+
+Please ensure that your contributions adhere to our coding standards and include appropriate tests.
+
+## Contact
+For any questions or additional information regarding the Machine Learning Course 2024, please do not hesitate to contact me at [mm.ghorbani@email.kntu.ac.ir](mailto:mm.ghorbani@email.kntu.ac.ir).
+
+## License
+This repository is licensed under the MIT License. By contributing to this repository, you agree that your contributions will be licensed under the MIT License.
