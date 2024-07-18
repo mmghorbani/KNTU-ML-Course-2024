@@ -27,4 +27,4 @@ Associate Professor of Control and Mechatronics Engineering
 |  _Autoencoder Network_  	| Training a Denoising Autoencoder (DAE) and neural network for denoising and classification tasks on [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).                                   	|            	|
 |    _Deep Q-Networks_    	| Apply two popular Reinforcement Learning algorithms, DQN and DDQN, to the [Lunar Lander environment](https://www.gymlibrary.dev/environments/box2d/lunar_lander/).                                                                        	|            	|
 
-![GitHub]([https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://github.com/mmghorbani/KNTU-ML-Course-2024/tree/main/Mini-Projects/MP1#question-1))
+![GitHub](https://github.com/mmghorbani/KNTU-ML-Course-2024/tree/main/Mini-Projects/MP1#question-1)
