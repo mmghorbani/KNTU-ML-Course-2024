@@ -5,6 +5,8 @@
 
 
 ## Question 1
+- `ML_MP2_Q1_Ghorbani.py` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W3V4FlpTqhgof4tHiL3nXUJyjlDR2ykU?usp=drive_link)
+
 Implementation of a two-layer artificial neural network with McCulloch-Pitts neurons for multi-class classification. The network utilizes three distinct activation functions: sigmoid, ReLU (Rectified Linear Unit), and ELU (Exponential Linear Unit).
 
 - The notebook defines mathematical functions for sigmoid, ReLU, and ELU activations, along with their derivatives.
@@ -20,6 +22,8 @@ Implementation of a two-layer artificial neural network with McCulloch-Pitts neu
 
 
 ## Question 2
+- `ML_MP2_Q2_Ghorbani.py` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sBepl3-NRet544HM2toOAl3yAZi1rJ5c?usp=drive_link)
+
 This Python notebook investigates the effectiveness of a multilayer perceptron (MLP) network for classifying faults in bearings. The system leverages features extracted from vibration data acquired from the CWRU-bearing dataset. The notebook compares the performance of the MLP network using different optimization algorithms and loss functions.
 
 - The data is preprocessed by extracting features like mean, standard deviation, and root mean square (RMS) from the vibration time series.
@@ -33,6 +37,7 @@ This Python notebook investigates the effectiveness of a multilayer perceptron (
 ![q2-2-1](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/1a007056-126b-4235-84dc-fe6b43132576)
 
 ## Question 3
+- `ML_MP2_Q3_Ghorbani.py` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ATP2DiY-0AwiAb0O7BaQXRfB7jmCTZv4?usp=drive_link)
 
 This notebook investigates the application of decision trees and random forest classifiers for a drug classification task using the Drug dataset from Kaggle. The notebook provides insights into how pre-pruning, post-pruning, undersampling, and hyperparameter tuning can influence the performance and complexity of decision trees and random forests for drug classification.
 
@@ -48,6 +53,8 @@ This notebook investigates the application of decision trees and random forest c
 ![q3-2-5](https://github.com/mmghorbani/KNTU-ML-Course-2024/assets/162275285/b8f4cfa8-887f-45e4-ab14-16c61316e3b2)
 
 ## Question 4
+- `ML_MP2_Q4_Ghorbani.py` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b_exw6kJZ943Tmcta3FEmUbO29lLrAYd?usp=drive_link)
+
 This Jupyter Notebook implements a Naive Bayes classifier on the Heart Disease Dataset to predict the presence of heart disease in patients. It covers data loading, preprocessing (shuffling, splitting, normalization), model training with GaussianNB, evaluation (accuracy score, classification report, confusion matrix), and an example of random prediction.
 
 #### Plot
