@@ -16,7 +16,9 @@ Associate Professor of Control and Mechatronics Engineering
 
 |        **Topic**        	|                                                                               **Description**                                                                              	| **Access** 	|
 |:-----------------------:	|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|:----------:	|
-| _McCulloch-Pitts Model_ 	| Implementing the McCulloch-Pitts neuron class with functionalities for step, sign, and ReLU activation functions.                                                          	|            	|
+| _McCulloch-Pitts Model_ 	| Implementing the McCulloch-Pitts neuron class with functionalities for step, sign, and ReLU activation functions.                                                          	|   
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmghorbani/KNTU-ML-Course-2024/tree/main/Mini-Projects/MP2#question-1) 
+|
 |  _Logistic Regression_  	| Implementing Logistic Regression and SGD Classifier on synthetic and [CWRU Bearing dataset](https://engineering.case.edu/bearingdatacenter).                                                              	|            	|
 |   _Linear Regression_   	| Building regression models to predict specific weather-related outcomes on the [Weather in Szeged 2006-2016 dataset](https://www.kaggle.com/datasets/budincsevity/szeged-weather/data).                                                                 	|            	|
 |      _MLP Network_      	| Utilize a multilayer perceptron network to classify faults in bearings. The model leverages features extracted from vibration data acquired from the [CWRU Bearing dataset](https://engineering.case.edu/bearingdatacenter). 	|            	|
