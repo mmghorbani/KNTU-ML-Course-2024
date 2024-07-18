@@ -4,7 +4,9 @@
 
 
 ## Question 1
-Notebooks: '''ML_MP1_Q1(1-4)_Ghorbani.ipynb''' and '''ML_MP1_Q1(5)_Ghorbani.ipynb'''
+- `ML_MP1_Q1(1-4)_Ghorbani.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bxn_Vt7d9jBNgr4_n9umcBm1m1Vz2Zwi?usp=sharing)
+- `ML_MP1_Q1(5)_Ghorbani.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bxn_Vt7d9jBNgr4_n9umcBm1m1Vz2Zwi?usp=sharing)
+
 This notebook focused on generating and classifying synthetic datasets using various machine-learning techniques. The notebook utilizes the make_classification function from sci-kit-learn to create a dataset with 1000 samples, 4 classes, and 3 features. It then applies classification algorithms such as Logistic Regression and SGD Classifier, alongside hyperparameter tuning methods like GridSearchCV and RandomizedSearchCV to optimize the models. Key features are:
 
 ### Key Features
@@ -21,6 +23,8 @@ This notebook focused on generating and classifying synthetic datasets using var
 This notebook is a comprehensive guide for understanding dataset creation, model training, and hyperparameter optimization using Scikit-learn.
 
 ## Question 2
+- `ML_MP1_Q2_Ghorbani.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Q11CLrfelEKOQG-rqs7Q22OAhYoySBQ?usp=drive_link)
+
 This Jupyter Notebook demonstrates importing, preprocessing, and classifying data from the CWRU Bearing dataset. The notebook includes steps for converting time series data to tabular format, extracting statistical features, and applying various preprocessing techniques. A Logistic Regression model is then trained for binary classification, and performance metrics are calculated to validate the results.
 
 ### Key Features
@@ -36,6 +40,7 @@ This Jupyter Notebook demonstrates importing, preprocessing, and classifying dat
 
 
 ## Question 3
+- `ML_MP1_Q3_Ghorbani.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EFAu4t2NjX04jtRARuJ1n_ltx9NoZYwg?usp=drive_link)
 This Jupyter Notebook is focused on analyzing weather data for regression tasks. The notebook covers the steps of importing a weather dataset, performing exploratory data analysis (EDA), and building regression models to predict specific weather-related outcomes. The models are evaluated based on their performance metrics.
 
 ### Key Features
