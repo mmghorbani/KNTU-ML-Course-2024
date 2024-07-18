@@ -4,6 +4,7 @@
 
 
 ## Question 1
+Notebooks: '''ML_MP1_Q1(1-4)_Ghorbani.ipynb''' and '''ML_MP1_Q1(5)_Ghorbani.ipynb'''
 This notebook focused on generating and classifying synthetic datasets using various machine-learning techniques. The notebook utilizes the make_classification function from sci-kit-learn to create a dataset with 1000 samples, 4 classes, and 3 features. It then applies classification algorithms such as Logistic Regression and SGD Classifier, alongside hyperparameter tuning methods like GridSearchCV and RandomizedSearchCV to optimize the models. Key features are:
 
 ### Key Features
