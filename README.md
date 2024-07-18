@@ -5,6 +5,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## About
 This repository houses the assignments and projects for the Machine Learning Course 2024 at K. N. Toosi University of Technology. It includes a variety of practical tasks and comprehensive projects designed to enhance your understanding of machine learning concepts. For detailed information on the topics covered in the course, please visit the [Course webpage](https://apac.ee.kntu.ac.ir/academic/courses/machine-learning/).
