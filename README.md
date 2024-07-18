@@ -7,7 +7,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## About
-This repository houses the assignments and projects for the Machine Learning Course 2024 at K. N. Toosi University of Science and Technology. It includes a variety of practical tasks and comprehensive projects designed to enhance your understanding of machine learning concepts. For detailed information on the topics covered in the course, please visit the [Course webpage](https://apac.ee.kntu.ac.ir/academic/courses/machine-learning/).
+This repository houses the assignments and projects for the Machine Learning Course 2024 at K. N. Toosi University of Technology. It includes a variety of practical tasks and comprehensive projects designed to enhance your understanding of machine learning concepts. For detailed information on the topics covered in the course, please visit the [Course webpage](https://apac.ee.kntu.ac.ir/academic/courses/machine-learning/).
 
 ## Instructor
 [Dr. Mahdi Aliyari](https://apac.ee.kntu.ac.ir/members/faculty/aliyari/)
@@ -47,6 +47,3 @@ Please ensure that your contributions adhere to our coding standards and include
 
 ## Contact
 For any questions or additional information regarding the Machine Learning Course 2024, please do not hesitate to contact me at [mm.ghorbani@email.kntu.ac.ir](mailto:mm.ghorbani@email.kntu.ac.ir).
-
-## License
-This repository is licensed under the MIT License. By contributing to this repository, you agree that your contributions will be licensed under the MIT License.
