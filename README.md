@@ -26,3 +26,5 @@ Associate Professor of Control and Mechatronics Engineering
 |  _Dimension Reduction_  	| Apply linear and nonlinear dimension reduction techniques such as PCA, LDA, and t-SNE on the [Iris dataset](https://www.kaggle.com/datasets/uciml/iris).                                                                 	|            	|
 |  _Autoencoder Network_  	| Training a Denoising Autoencoder (DAE) and neural network for denoising and classification tasks on [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).                                   	|            	|
 |    _Deep Q-Networks_    	| Apply two popular Reinforcement Learning algorithms, DQN and DDQN, to the [Lunar Lander environment](https://www.gymlibrary.dev/environments/box2d/lunar_lander/).                                                                        	|            	|
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
