@@ -4,6 +4,10 @@
 
 
 ## Question 1
+- `ML_MP3_Q1(1-3)_Ghorbani.py` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LF3GotCipD0iiKcuDwvnR43c1ZyMtVdb?usp=drive_link)
+- `ML_MP3_Q1(4)_Ghorbani.py` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RoyU03iCXIotwvpnr9XfVD9ljcJoZuuu?usp=drive_link)
+
+
 This repository features a machine learning project on the Iris dataset, encompassing data exploration, feature scaling, dimensionality reduction, and classification using Support Vector Machine (SVM). The notebook provides visualizations and performance evaluations to demonstrate the model's capabilities.
 
 ### Key Features:
@@ -18,6 +22,8 @@ This repository features a machine learning project on the Iris dataset, encompa
 
 
 ## Question 3
+- `ML_MP3_Q3_Ghorbani.py` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XNNX6GqfQQNicw0piSzyAlc7fYryO2AU?usp=drive_link)
+
 This repository features a machine learning project on credit card fraud detection using the SMOTE technique for handling class imbalance. The project covers data preprocessing, model training with a neural network, and performance evaluation, providing comprehensive visualizations and analysis to demonstrate the model's effectiveness.
 
 ### Key Features:
