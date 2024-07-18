@@ -15,7 +15,7 @@ Associate Professor of Control and Mechatronics Engineering
 ## Quick Access
 
 |        **Topic**        	|                                                                               **Description**                                                                              	| **Access** 	|
-|:-----------------------:	|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:----------:	|
+|:-----------------------:	|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|:----------:	|
 | _McCulloch-Pitts Model_ 	| Implementing the McCulloch-Pitts neuron class with functionalities for step, sign, and ReLU activation functions.                                                          	|            	|
 |  _Logistic Regression_  	| Implementing Logistic Regression and SGD Classifier for classification on synthetic and CWRU Bearing dataset.                                                              	|            	|
 |   _Linear Regression_   	| Building regression models to predict specific weather-related outcomes on the Weather in Szeged dataset.                                                                 	|            	|
